@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm duck4nh</h1>
+<h3 align="center">🎓 I’m currently a third-year Information Security student at PTITT</h3>
+
 
 <!--
 **duck4nh/duck4nh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
