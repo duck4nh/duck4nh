@@ -1,4 +1,6 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FmaWhxajFwOWYxdHF6YnhqbDV4eXkxcXQ5ZTAzcW83OXRqaWE2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" width="400"/>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FmaWhxajFwOWYxdHF6YnhqbDV4eXkxcXQ5ZTAzcW83OXRqaWE2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" width="250"/>
+</p>
 <p align="center">Hi 👋, I'm duck4nh</p>
 <p align="center">🎓 I’m currently a third-year Information Security student at PTITT</p>
 
