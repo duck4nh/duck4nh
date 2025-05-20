@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FmaWhxajFwOWYxdHF6YnhqbDV4eXkxcXQ5ZTAzcW83OXRqaWE2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQ4OWE1bGtqOWthYjFvbnZ6aWluOGkwZTFuMTI2bTF1NWJmcDZpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif" width="100"/>
 </p>
 <p align="center">Hi ✨, I'm duck4nh</p>
 <p align="center">🎓 I’m currently a third-year Information Security student at PTITT</p>
