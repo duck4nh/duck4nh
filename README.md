@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm duck4nh</h2>
-<h3 align="center">🎓 I’m currently a third-year Information Security student at PTITT</h3>
+<p align="center">Hi 👋, I'm duck4nh</p>
+<p align="center">🎓 I’m currently a third-year Information Security student at PTITT</p>
 
 
 <!--
